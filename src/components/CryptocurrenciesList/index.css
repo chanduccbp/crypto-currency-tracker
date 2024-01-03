@@ -1,0 +1,43 @@
+/* Write your CSS code here */
+.m-cont {
+  width: 80%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.head {
+  color: #00e7ff;
+  font-family: 'roboto';
+}
+
+.cc-img {
+  width: 100%;
+}
+
+.list-items {
+  width: 90%;
+  padding-left: 0px;
+  list-style-type: none;
+  font-family: 'roboto';
+  color: #ffffff;
+  border: solid 1px #00e7ff;
+}
+
+.item-head {
+  width: 100%;
+  background-color: #092e33;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.rhs-head {
+  width: 20%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}

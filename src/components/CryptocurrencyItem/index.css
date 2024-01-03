@@ -1,0 +1,26 @@
+/* Write your CSS code here */
+.item {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.lhs {
+  display: flex;
+  align-items: center;
+}
+
+.rhs {
+  width: 20%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.logo {
+  width: 8%;
+  margin-right: 5px;
+}
